@@ -6,7 +6,8 @@
             "department" : "College staff",
             "related" : "Infrastructure",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "likes" : 18
+            "likes" : 18,
+            "image" : "images/in.jpg"
         },
         {
             "id" : 2,
@@ -14,7 +15,8 @@
             "department" : "Students department",
             "related" : "Bullying and Ragging",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "likes" : 30
+            "likes" : 30,
+            "image" : "images/infrastructure.jpg"
         },
         {
             "id" : 3,
@@ -22,7 +24,8 @@
             "department" : "College staff",
             "related" : "Infrastructure",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "likes" : 18
+            "likes" : 18,
+            "image" : "images/ragging.jpg"
         }
 
     ]

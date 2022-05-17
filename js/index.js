@@ -10,7 +10,7 @@ const renderIssues = async()=>{
         <div class = "issues">
         <div class="col-md-4">
         <div class="card h-100">
-          <img src="images/issue_background_image.jpg" class="card-img-top" alt="issue_image">
+          <img src=${element.image} class="card-img-top" alt="issue_image">
           <div class="card-body">
             <h5 class="card-title">${element.description}</h5>
             <p class="card-text">${element.description}</p>
