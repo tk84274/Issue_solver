@@ -8,6 +8,15 @@ input[type=text], select, textarea {
     margin-bottom: 16px; /* Bottom margin */
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
   }
+
+    /* Formatting of text in text fields */
+  #subject, 
+  #country,
+  #lname,
+  #fname{
+    font-family: "Times New Roman", Times, serif;
+    font-size: medium;
+  }
   
   /* Style the submit button with a specific background color etc */
   input[type=submit] {
