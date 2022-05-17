@@ -104,3 +104,13 @@ background: rgba(0, 0, 0, 0.43);
     text-decoration: none;
     color: white;
 }
+.IssuesArray{
+    display: flex;
+    align-items: stretch;
+    align-content: space-between;
+    
+}
+.card .h-100{
+    width: 85mm;
+    margin: 5mm;
+}
