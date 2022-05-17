@@ -5,16 +5,24 @@
             "description" : "Bad infrastructure of college",
             "department" : "College staff",
             "related" : "Infrastructure",
-            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-    
+            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+            "likes" : 18
         },
         {
             "id" : 2,
             "description" : "Ragging in college",
             "department" : "Students department",
             "related" : "Bullying and Ragging",
-            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-    
+            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+            "likes" : 30
+        },
+        {
+            "id" : 3,
+            "description" : "Bad infrastructure of college",
+            "department" : "College staff",
+            "related" : "Infrastructure",
+            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+            "likes" : 18
         }
 
     ]

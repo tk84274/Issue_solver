@@ -72,19 +72,19 @@ background: rgba(0, 0, 0, 0.43);
     height: 22px;
     width: 18px;
 }
-.all_issues .card{
+.IssuesArray .card{
     background-color: white;
 }
 
-.all_issues .card img{
+.IssuesArray .card img{
     height: 200px;
     width: auto;
 }
-.all_issues .card button{
+.IssuesArray .card button{
    border: none;
    background-color: transparent;
 }
-.all_issues .card button img{
+.IssuesArray .card button img{
     height: 32px;
     width: auto;
 }
