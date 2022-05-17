@@ -3,7 +3,7 @@
         {
             "id" : 1,
             "description" : "Bad infrastructure of college",
-            "date" : "01/05/2022",
+            "department" : "College staff",
             "related" : "Infrastructure",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
     
@@ -11,7 +11,7 @@
         {
             "id" : 2,
             "description" : "Ragging in college",
-            "date" : "03/05/2022",
+            "department" : "Students department",
             "related" : "Bullying and Ragging",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
     
